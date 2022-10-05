@@ -1,0 +1,6 @@
+xgboost
+servicefoundry
+fastapi
+uvicorn
+scikit-learn
+pandas
